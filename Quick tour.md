@@ -8,7 +8,7 @@ In this demo, we’ll walk through the panels step by step: using an AI agent to
 # Chat, AI:
 The AI chat agent supports working within different contexts, helping to accelerate workflows by generating content tailored to the given situation.
 
-![](https://demo.arcade.software/screenshot.png)
+![](./ai.png)
 
 # Widgets:
 The widget section provides a structured view of widgets and pages.
