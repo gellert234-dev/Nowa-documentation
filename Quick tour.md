@@ -13,10 +13,10 @@ The AI chat agent supports working within different contexts, helping to acceler
 # Widgets:
 The widget section provides a structured view of widgets and pages.
 
-![](https://demo.arcade.software/screenshot.png)
+![](./widget.png)
 
 # Theme:
 In the theme tab, you can customize colors and fonts, and create dark mode or any specific mood-based design.
 
-![](https://demo.arcade.software/screenshot.png)
+![](./theme.png)
 
