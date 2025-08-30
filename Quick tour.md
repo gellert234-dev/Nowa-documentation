@@ -1,3 +1,4 @@
+# Quick Tour
 
 In this section, we’ll briefly review the main panels that appear in Nowa after creating a project.
 
